@@ -1,0 +1,7 @@
+Atom
+Sudo
+Nano
+Arduino
+Learn DevOps
+Check
+:q
